@@ -1,2 +1,2 @@
-# lesson
-learning how to use laravel
+# laravel
+Creating a simple application with laravel
